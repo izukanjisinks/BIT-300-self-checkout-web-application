@@ -1,0 +1,1 @@
+# BIT-300-self-checkout-web-application
